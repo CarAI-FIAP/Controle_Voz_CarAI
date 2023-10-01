@@ -11,6 +11,19 @@
 """
 
 
+"""
+    Crie sua Alexa em Python
+    Referência: https://www.youtube.com/watch?v=36RIoJeV95M
+
+    Bibliotecas:
+    - SpeechRecognition: https://pypi.org/project/SpeechRecognition/
+    - PyAudio: https://pypi.org/project/PyAudio/
+    - Pyttsx3: https://pypi.org/project/pyttsx3/
+    - Wikipedia: https://pypi.org/project/wikipedia/
+    - Pywhatkit: https://pypi.org/project/pywhatkit/
+"""
+
+
 # Bibliotecas
 import datetime
 import requests
