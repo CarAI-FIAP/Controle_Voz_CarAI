@@ -1,7 +1,6 @@
 # Controle de Voz - CarAI
 
 ![Static Badge](https://img.shields.io/badge/version-v.0.0.1-green)
-![Static Badge](https://img.shields.io/badge/author-Laura_Sorato-blue)
 
 ## :warning: Importante:
 
